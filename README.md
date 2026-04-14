@@ -77,7 +77,7 @@ Image: cover-cmyk.jpg
 
 ## ICC Profiles
 
-ICC profiles are not bundled. Recommended sources:
+The required ICC profiles depend on your printing needs. This takes some experimentation. Recommended sources:
 
 - **sRGB v4**: [ICC sRGB profiles](https://www.color.org/srgbprofiles.xalter) — use `sRGB_v4_ICC_preference.icc`
 - **SWOP / PSO Coated**: [ICC profile registry](https://www.color.org/registry/index.xalter)
